@@ -22,7 +22,6 @@ There are numerous approaches to tackle this problem. I have chosen to implement
   
   # Dataset details
 AcceptedCmp1 - 1 if customer accepted the offer in the 1st campaign, 0 otherwise
-
 AcceptedCmp2 - 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
 AcceptedCmp3 - 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
 AcceptedCmp4 - 1 if customer accepted the offer in the 4th campaign, 0 otherwise
