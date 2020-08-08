@@ -1,4 +1,4 @@
-# Predicting the max profit a company could generate through campaigns
+# Uplift Modelling to maximize the revenue through marketing campaigns
 
 This project discusses about the various types of Uplift Modelling. A sample dataset which contains many parameters including Promotion, Response etc.. were given as an input to the models. 
 
